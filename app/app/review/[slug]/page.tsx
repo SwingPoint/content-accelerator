@@ -241,7 +241,7 @@ export default async function ReviewPage({ params }: { params: { slug: string } 
               Social Media Posts
             </CardTitle>
             <CardDescription>
-              {Object.values(index.assets.socialPosts.platforms).reduce((a: number, b: number) => a + b, 0)} posts across {Object.keys(index.assets.socialPosts.platforms).length} platforms
+              {(Object.values(index.assets.socialPosts.platforms) as number[]).reduce((a, b) => a + b, 0)} posts across {Object.keys(index.assets.socialPosts.platforms).length} platforms
             </CardDescription>
           </CardHeader>
           <CardContent>
