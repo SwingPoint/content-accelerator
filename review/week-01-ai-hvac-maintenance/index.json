@@ -1,0 +1,61 @@
+{
+  "slug": "week-01-ai-hvac-maintenance",
+  "status": "DRAFT",
+  "createdAt": "2024-11-08T10:00:00Z",
+  "metadata": {
+    "businessName": "Bay Area HVAC Pro",
+    "region": "San Francisco, CA",
+    "topic": "AI-Powered Predictive Maintenance for HVAC Systems",
+    "keywords": ["HVAC", "AI", "predictive maintenance", "San Francisco", "energy efficiency"],
+    "platforms": ["facebook", "instagram", "linkedin", "gbp", "youtube", "email"]
+  },
+  "assets": {
+    "blog": {
+      "file": "blog.md",
+      "wordCount": 1184,
+      "title": "AI-Powered Predictive Maintenance: The Future of HVAC Systems in San Francisco",
+      "metaDescription": "Discover how AI-powered predictive maintenance is transforming HVAC management for San Francisco businesses with 30-50% cost reductions and zero downtime.",
+      "editable": true
+    },
+    "videoScript": {
+      "file": "video-script.md",
+      "mainVideoDuration": "3-4 minutes",
+      "shortsCount": 5,
+      "editable": true
+    },
+    "socialPosts": {
+      "file": "social-posts.json",
+      "platforms": {
+        "facebook": 2,
+        "instagram": 3,
+        "linkedin": 2,
+        "gbp": 2,
+        "youtube": 1
+      },
+      "editable": true
+    },
+    "email": {
+      "file": "email.md",
+      "subjectLines": 3,
+      "editable": true
+    },
+    "images": {
+      "directory": "images/",
+      "metadata": "images/metadata.json",
+      "generated": true
+    }
+  },
+  "schedule": {
+    "file": "schedule.json",
+    "timezone": "America/Los_Angeles",
+    "itemCount": 15
+  },
+  "validation": {
+    "file": "validation.json",
+    "overallScore": 92,
+    "status": "pass"
+  },
+  "comments": [],
+  "approvals": []
+}
+

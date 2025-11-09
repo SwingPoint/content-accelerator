@@ -1,0 +1,66 @@
+{
+  "facebook": {
+    "post1": {
+      "content": "🤖 What if your HVAC system could predict its own failures?\n\nAI-powered predictive maintenance is transforming how Bay Area businesses manage their heating and cooling systems. Instead of waiting for expensive breakdowns, smart sensors and machine learning algorithms catch problems weeks in advance.\n\nThe results?\n✅ 30-50% reduction in maintenance costs\n✅ Zero unexpected downtime\n✅ 15-30% lower energy bills\n✅ Extended equipment lifespan\n\nOne of our SF clients reduced their annual HVAC costs by 35% while improving system reliability. No new equipment needed—just smart monitoring retrofitted to their existing system.\n\nCurious if this technology makes sense for your facility? We offer free assessments for Bay Area businesses.\n\n👉 Learn more: [LINK]\n\n#HVAC #PredictiveMaintenance #AITechnology #SanFrancisco #BusinessEfficiency #SmartBuilding",
+      "image": "facebook-feed.png",
+      "scheduledFor": "Monday 9:00 AM"
+    },
+    "post2": {
+      "content": "💡 Did you know? The average commercial HVAC emergency repair costs $2,500—plus lost productivity during downtime.\n\nBut what if you could see problems coming 2-4 weeks before they happen?\n\nThat's the power of AI predictive maintenance. Our systems monitor your HVAC 24/7 and alert you to potential issues before they become costly emergencies.\n\nReal results from a downtown SF client:\n→ 8 emergency calls per year → 0\n→ 22% reduction in energy costs\n→ Equipment lifespan extended by 5+ years\n\nReady to make HVAC emergencies a thing of the past? Contact Bay Area HVAC Pro for your free assessment.\n\n#CommercialHVAC #FacilityManagement #PredictiveMaintenance #SanFranciscoBusiness",
+      "image": "facebook-feed.png",
+      "scheduledFor": "Wednesday 1:00 PM"
+    }
+  },
+  "instagram": {
+    "post1": {
+      "caption": "Your HVAC system is trying to tell you it's about to break. But are you listening? 🎧\n\nAI predictive maintenance monitors 1,000+ data points 24/7 and alerts you weeks before component failures. No more surprise breakdowns. No more emergency service calls.\n\nOne Bay Area client: Zero emergency calls in 12 months ✅\n\nSwipe to see how it works 👉\n\n#HVAC #AITechnology #PredictiveMaintenance #SmartBuilding #SanFrancisco #BayArea #CommercialHVAC #FacilityManagement #BusinessTechnology #EnergyEfficiency",
+      "image": "instagram-feed.png",
+      "type": "carousel",
+      "scheduledFor": "Tuesday 11:00 AM"
+    },
+    "reel": {
+      "caption": "POV: Your HVAC system tells you it's going to break 3 weeks BEFORE it breaks 🤯\n\nThat's AI predictive maintenance. Real technology. Real savings. Available now in the Bay Area.\n\nComment 'INFO' for details 👇\n\n#HVACTech #AIInnovation #SmartBuilding #BayAreaBusiness #PredictiveMaintenance #TechTrends #CommercialHVAC #BusinessTips #SanFrancisco #Innovation",
+      "video": "instagram-reel.mp4",
+      "scheduledFor": "Thursday 2:00 PM"
+    },
+    "story": {
+      "content": "Interactive poll: Have you experienced an unexpected HVAC breakdown in the past year?",
+      "image": "instagram-story.png",
+      "type": "poll",
+      "scheduledFor": "Friday 10:00 AM"
+    }
+  },
+  "linkedin": {
+    "post1": {
+      "content": "The Hidden Cost of Reactive HVAC Maintenance\n\nMost Bay Area businesses manage HVAC systems reactively—waiting for failures and paying premium prices for emergency repairs. But there's a smarter approach.\n\nAI-powered predictive maintenance uses machine learning to analyze real-time sensor data from your HVAC infrastructure. The technology identifies anomalies and predicts component failures 2-4 weeks in advance with 85-95% accuracy.\n\nKey business impacts:\n\n→ Maintenance cost reduction: 30-50%\n→ Unplanned downtime: Near elimination\n→ Energy consumption: 15-30% decrease\n→ Equipment ROI: 20-40% lifespan extension\n\nImplementation doesn't require infrastructure replacement. Modern retrofit sensors integrate with systems 10+ years old, with typical payback periods of 12-18 months.\n\nCase study: A San Francisco financial services firm reduced annual HVAC maintenance costs by 35% in year one while improving system reliability and meeting sustainability goals.\n\nFor facility managers, CFOs, and operations leaders: The question isn't whether to implement predictive maintenance, but when.\n\nInterested in learning how this technology applies to your facility? Bay Area HVAC Pro offers complimentary technical assessments.\n\n#FacilityManagement #PredictiveMaintenance #AIInBusiness #Sustainability #CommercialRealEstate #SanFrancisco #OperationalExcellence #HVAC #BusinessTechnology",
+      "image": "linkedin-feed.png",
+      "scheduledFor": "Tuesday 8:00 AM"
+    },
+    "post2": {
+      "content": "3 Reasons San Francisco Businesses Are Adopting AI Predictive Maintenance\n\n1. Regulatory Compliance\nSF's Commercial Building Energy Performance Ordinance demands measurable efficiency gains. AI-optimized HVAC reduces consumption 15-30%, helping meet benchmarking requirements.\n\n2. Operational Resilience\nFor healthcare, hospitality, and data centers, HVAC downtime impacts core operations. Predictive maintenance virtually eliminates unplanned outages.\n\n3. Total Cost of Ownership\nBeyond avoiding emergency repairs, the technology extends equipment life by years—transforming capital expenditure planning.\n\nThe technology is mature, proven, and accessible for businesses of all sizes. Retrofit installations typically complete in a single day with immediate monitoring activation.\n\nROI data from our client portfolio shows 200-400% returns in the first two years.\n\nWant to explore feasibility for your facility? Connect with our team.\n\n#FacilityManagement #HVAC #EnergyEfficiency #SmartBuildings #SanFranciscoBusiness #Sustainability #AIApplications",
+      "image": "linkedin-feed.png",
+      "scheduledFor": "Thursday 9:00 AM"
+    }
+  },
+  "gbp": {
+    "post1": {
+      "content": "AI-powered HVAC maintenance is now available for Bay Area businesses! Our predictive maintenance technology catches problems weeks before they happen—saving you money and preventing unexpected breakdowns. Free assessments available. Contact us today!",
+      "image": "gbp-post.png",
+      "callToAction": "Learn More",
+      "scheduledFor": "Monday 10:00 AM"
+    },
+    "update": {
+      "content": "New Service Alert: Bay Area HVAC Pro now offers AI predictive maintenance retrofits for commercial HVAC systems. See problems before they happen. Reduce costs 30-50%. Call for your free assessment!",
+      "scheduledFor": "Friday 11:00 AM"
+    }
+  },
+  "youtube": {
+    "video": {
+      "title": "AI Predictive Maintenance: The Future of HVAC | Bay Area HVAC Pro",
+      "description": "Discover how AI-powered predictive maintenance is transforming HVAC management for San Francisco businesses. Learn how machine learning can predict equipment failures weeks in advance, reduce maintenance costs by 30-50%, and eliminate unexpected downtime.\n\nIn this video:\n✅ How AI predictive maintenance works\n✅ Real cost savings and ROI data\n✅ Implementation process for existing systems\n✅ Case study: SF client results\n\n🔧 Free Assessment: [LINK]\n📞 Contact: [PHONE]\n🌐 Website: [LINK]\n\n—————————————\nBay Area HVAC Pro serves commercial and residential clients throughout San Francisco and the Greater Bay Area with cutting-edge HVAC solutions.\n\n#HVAC #PredictiveMaintenance #AITechnology #SanFrancisco #CommercialHVAC",
+      "tags": ["HVAC", "AI", "Predictive Maintenance", "San Francisco", "Commercial HVAC", "Smart Building", "Energy Efficiency", "Facility Management", "Business Technology", "Bay Area"],
+      "scheduledFor": "Tuesday 2:00 PM"
+    }
+  }
+}
+

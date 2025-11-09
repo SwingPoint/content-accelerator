@@ -1,0 +1,95 @@
+{
+  "timezone": "America/Los_Angeles",
+  "weekStart": "2024-11-11T00:00:00-08:00",
+  "items": [
+    {
+      "platform": "facebook",
+      "postType": "post",
+      "assetRef": "social-posts.json > facebook > post1",
+      "scheduledFor": "2024-11-11T09:00:00-08:00",
+      "status": "pending",
+      "displayTime": "Monday, Nov 11 at 9:00 AM PST"
+    },
+    {
+      "platform": "gbp",
+      "postType": "post",
+      "assetRef": "social-posts.json > gbp > post1",
+      "scheduledFor": "2024-11-11T10:00:00-08:00",
+      "status": "pending",
+      "displayTime": "Monday, Nov 11 at 10:00 AM PST"
+    },
+    {
+      "platform": "linkedin",
+      "postType": "post",
+      "assetRef": "social-posts.json > linkedin > post1",
+      "scheduledFor": "2024-11-12T08:00:00-08:00",
+      "status": "pending",
+      "displayTime": "Tuesday, Nov 12 at 8:00 AM PST"
+    },
+    {
+      "platform": "email",
+      "postType": "newsletter",
+      "assetRef": "email.md",
+      "scheduledFor": "2024-11-12T10:00:00-08:00",
+      "status": "pending",
+      "displayTime": "Tuesday, Nov 12 at 10:00 AM PST"
+    },
+    {
+      "platform": "instagram",
+      "postType": "post",
+      "assetRef": "social-posts.json > instagram > post1",
+      "scheduledFor": "2024-11-12T11:00:00-08:00",
+      "status": "pending",
+      "displayTime": "Tuesday, Nov 12 at 11:00 AM PST"
+    },
+    {
+      "platform": "youtube",
+      "postType": "video",
+      "assetRef": "video-script.md + social-posts.json > youtube > video",
+      "scheduledFor": "2024-11-12T14:00:00-08:00",
+      "status": "pending",
+      "displayTime": "Tuesday, Nov 12 at 2:00 PM PST"
+    },
+    {
+      "platform": "facebook",
+      "postType": "post",
+      "assetRef": "social-posts.json > facebook > post2",
+      "scheduledFor": "2024-11-13T13:00:00-08:00",
+      "status": "pending",
+      "displayTime": "Wednesday, Nov 13 at 1:00 PM PST"
+    },
+    {
+      "platform": "instagram",
+      "postType": "reel",
+      "assetRef": "social-posts.json > instagram > reel",
+      "scheduledFor": "2024-11-14T14:00:00-08:00",
+      "status": "pending",
+      "displayTime": "Thursday, Nov 14 at 2:00 PM PST"
+    },
+    {
+      "platform": "linkedin",
+      "postType": "post",
+      "assetRef": "social-posts.json > linkedin > post2",
+      "scheduledFor": "2024-11-14T09:00:00-08:00",
+      "status": "pending",
+      "displayTime": "Thursday, Nov 14 at 9:00 AM PST"
+    },
+    {
+      "platform": "instagram",
+      "postType": "story",
+      "assetRef": "social-posts.json > instagram > story",
+      "scheduledFor": "2024-11-15T10:00:00-08:00",
+      "status": "pending",
+      "displayTime": "Friday, Nov 15 at 10:00 AM PST"
+    },
+    {
+      "platform": "gbp",
+      "postType": "update",
+      "assetRef": "social-posts.json > gbp > update",
+      "scheduledFor": "2024-11-15T11:00:00-08:00",
+      "status": "pending",
+      "displayTime": "Friday, Nov 15 at 11:00 AM PST"
+    }
+  ]
+}
+
