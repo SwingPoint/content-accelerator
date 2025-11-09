@@ -4,10 +4,8 @@ const nextConfig = {
     domains: ['localhost'],
     formats: ['image/avif', 'image/webp'],
   },
-  // Disable experimental features to avoid build issues
-  experimental: {},
-  // Help with build trace collection
-  outputFileTracingRoot: __dirname,
+  // Use standalone output to avoid build trace issues
+  output: 'standalone',
 }
 
 module.exports = nextConfig

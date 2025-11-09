@@ -1,8 +1,34 @@
+# Dependencies
 node_modules
 .next
-.env.local
-.env*.local
-*.log
-.DS_Store
 .vercel
+
+# Environment
+.env
+.env*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+
+# Git
 .git
+
+# Editor
+.vscode
+.idea
+
+# Vercel
+.vercel
+
+# Prevent scanning parent directories
+../
+../../
+../../../
+
+# Windows specific
+$RECYCLE.BIN
+System Volume Information
