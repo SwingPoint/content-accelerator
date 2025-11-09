@@ -246,10 +246,10 @@ export default async function ReviewPage({ params }: { params: { slug: string } 
           </CardHeader>
           <CardContent>
             <div className="space-y-2">
-              {Object.entries(index.assets.socialPosts.platforms).map(([platform, count]: [string, number]) => (
+              {(Object.entries(index.assets.socialPosts.platforms) as [string, number][]).map(([platform, count]) => (
                 <div key={platform} className="flex items-center justify-between text-sm">
                   <span className="capitalize">{platform}</span>
-                  <span className="text-gray-500">{count as number} posts</span>
+                  <span className="text-gray-500">{count} posts</span>
                 </div>
               ))}
               <Button variant="outline" size="sm" className="w-full mt-2">
